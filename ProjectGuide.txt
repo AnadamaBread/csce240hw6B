@@ -40,7 +40,7 @@ Jobs:
   - write out each codeline with comments and errors
   - make sure hex.cc works
   - deal with line which is only comment
-
+  - run mycpplint on each file
 
 Meetings:
 *PLANNED* Thurs, Nov 29: 7:00pm, Blueprint Cafe, Swearingen
