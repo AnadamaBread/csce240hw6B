@@ -40,6 +40,7 @@ Jobs:
   - write out each codeline with comments and errors
   - make sure hex.cc works
   - deal with line which is only comment
+  - MYCPPLINT!!
 
 
 Meetings:
