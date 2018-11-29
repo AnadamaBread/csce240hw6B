@@ -1,0 +1,46 @@
+This text file records group members, assigned/unassigned Jobs,
+and meetings/work times for the CSCE240 Homework 6B
+
+Members:
+James Johnson
+Luis Baez
+Rutvik Patel
+Nick Heater
+Ryan Staudt
+
+Jobs:
+-First pass (hard): James Johnson
+
+  - define symbol table
+  - probably most of the error catching
+
+-Second Pass (hard)
+  - turn each line of code into pullet machine code
+  - likely small amount of error catching
+
+-Write to Binary (medium)
+   - will be very similar to HW05
+   - tricky, but doable
+
+-codeline.cc (easy)
+  - work with various class-level functions. effectively just set up the cla$
+
+-symbol.cc (easy)
+  - class level, some symbolic error checking.
+  - less class-based than codeline.cc, but still simple
+
+-Instruction Manual (easy)
+  - Document how to make an assembly code program
+
+-System Manual (easy)
+  - Document how system works
+  - Used for a programmer who wants to edit code
+
+-Misc.
+  - write out each codeline with comments and errors
+  - make sure hex.cc works
+  - deal with line which is only comment
+
+
+Meetings:
+*PLANNED* Thurs, Nov 29: 7:00pm, Blueprint Cafe, Swearingen
