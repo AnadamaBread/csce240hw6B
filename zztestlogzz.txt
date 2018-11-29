@@ -1,0 +1,12 @@
+Main: Beginning execution
+Main: logfile 'zztestlogzz.txt
+Debug input values:
+test
+Binary File Provided:
+1110000000000001
+1110000000000011
+1110000000000001
+1110000000000011
+1110000000000010
+End initial Debug
+Main: Ending execution
