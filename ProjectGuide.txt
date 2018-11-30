@@ -14,28 +14,29 @@ Jobs:
   - define symbol table
   - probably most of the error catching
 
--Second Pass (hard)
+-Second Pass (hard): Luis Baez
   - turn each line of code into pullet machine code
   - likely small amount of error catching
 
--Write to Binary (medium)
+-Write to Binary (medium): Rutvik Patel 
    - will be very similar to HW05
    - tricky, but doable
 
--codeline.cc (easy)
+-codeline.cc (easy): Ryan Staudt 
   - work with various class-level functions. effectively just set up the cla$
 
--symbol.cc (easy)
+-symbol.cc (easy): Nick Heater
   - class level, some symbolic error checking.
   - less class-based than codeline.cc, but still simple
 
--Instruction Manual (easy)
+-Instruction Manual (easy):
   - Document how to make an assembly code program
+  - Mostly comes from Buell's PDF with Definitions
 
--System Manual (easy)
+-System Manual (easy):
   - Document how system works
   - Used for a programmer who wants to edit code
-
+  
 -Misc.
   - write out each codeline with comments and errors
   - make sure hex.cc works
@@ -43,4 +44,4 @@ Jobs:
   - run mycpplint on each file
 
 Meetings:
-*PLANNED* Thurs, Nov 29: 7:00pm, Blueprint Cafe, Swearingen
+*PLANNED* Thurs, Nov 29: 7:00pm, Blueprint Cafe, Swearingen -Full Attendence
